@@ -1,0 +1,47 @@
+# Calculator Application (Python Tkinter)
+
+## Project Description
+This project is a simple Calculator application developed using Python and Tkinter.  
+The goal of this project is to demonstrate a graphical user interface (GUI) and implement event-driven programming.
+
+The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## Tools Used
+- Python
+- Tkinter (GUI Library)
+
+## Features
+- Graphical calculator interface
+- Basic arithmetic operations (+, -, *, /)
+- Clear button to reset the input
+- Error handling for invalid expressions
+- Event-driven programming using button click events
+
+## How It Works
+The calculator uses Tkinter to create buttons and a display screen.  
+When a user clicks a button, an event is triggered that performs the corresponding action such as inserting numbers, clearing the display, or calculating the result.
+
+## How to Run the Program
+
+1. Install Python on your computer
+2. Download or clone the repository
+3. Navigate to the project folder
+4. Run the following command:
+
+```bash
+python calculator.py
+```
+
+The calculator window will open and you can start performing calculations.
+
+## Example Operations
+```
+2 + 3 = 5
+10 * 5 = 50
+8 / 2 = 4
+```
+
+
+
+## Author
+Bhanushree r
